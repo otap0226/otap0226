@@ -1,4 +1,4 @@
-## my name is kim jae won 👋
+## hello 👋
 
 <!--
 **otap0226/otap0226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
