@@ -2,7 +2,7 @@
 
 여러 게임을 개발하며, 많은 게이머들이 즐길 수 있는 게임을 만드는 것이 제 목표입니다.
 
----
+
 
 Notion : https://www.notion.so/203b20baa609807aa2c2eda7dd75ff47
 
