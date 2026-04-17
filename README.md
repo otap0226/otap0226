@@ -9,5 +9,3 @@ Notion : https://www.notion.so/203b20baa609807aa2c2eda7dd75ff47
 CP : 010 7772 5474
 
 email : kimjeawon0226@kakao.com
-
-시작일 : 2025 05 30
