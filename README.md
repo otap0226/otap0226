@@ -30,7 +30,7 @@ const 김재원 = {
   passion  : "플레이어를 웃게 만들 때 나도 웃는다",
   contact  : {
     phone : "010-7772-5474",
-    email : "kimjeawon0226@kakao.com",
+    email : "kimjeawon090226@gmail.com",
   },
   currentStatus : "🔨 재미있는 것 개발 중...",
 };
